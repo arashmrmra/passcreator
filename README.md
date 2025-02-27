@@ -1,5 +1,6 @@
 # `password creator` Project
 ![icon](icon.png)
+
 we created a password creator 
 ```python
     for i in range(21):
